@@ -4,3 +4,7 @@ a few style tweaks for the Shipping Easy app for use with Stylish or similar ext
 Tweaks include:
 
 * fixed header/navbar. Always see how many pending shipments are ready to print.
+
+Stylish settings:
+
+* Applies to : "URLs on the domain" : app.shippingeasy.com
