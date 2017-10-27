@@ -1,0 +1,21 @@
+
+header, .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index:1001;
+    background:#fff;
+}
+
+header {
+    padding: 10px 15px;
+    margin-top: 0 !important;
+}
+
+.navbar {
+    margin: 5px 20px;
+    top:30px
+}
+
+body { margin-top: 99px;} 
